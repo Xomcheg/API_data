@@ -1,0 +1,19 @@
+-------------POST----------------
+{
+    "user": {
+        "username": "homa",
+        "email": "homa@mail.ru",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYjIwMjYwNTJlNDk4MWIwMGNmMjdjYSIsInVzZXJuYW1lIjoiaG9tYSIsImV4cCI6MTY2MTAyMDE2NSwiaWF0IjoxNjU1ODM2MTY1fQ.Ip6tOdsLzrLChwftaEQLLteWGivVk8X521IcNXg4jSI"
+    }
+}
+-------------POST----------------
+
+-------------GET----------------
+{
+    "user": {
+        "username": "homa",
+        "email": "homa@mail.ru",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYjIwMjYwNTJlNDk4MWIwMGNmMjdjYSIsInVzZXJuYW1lIjoiaG9tYSIsImV4cCI6MTY2MTAyMTcxOSwiaWF0IjoxNjU1ODM3NzE5fQ.LCVxbbmQ0s1DCgwiwNLtZW1U5-MqVj11iViKxKEoW8E"
+    }
+}
+-------------GET----------------
